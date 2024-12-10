@@ -1,6 +1,6 @@
 # AppStore
 DOMAIN,apps.apple.com
-DOMAIN,itunes.apple.com
+DOMAIN-SUFFIX,itunes.apple.com,DIRECT
 # AppleID
 DOMAIN,appleid.apple.com
 DOMAIN,appleid.cdn-apple.com
